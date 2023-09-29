@@ -69,7 +69,7 @@ Display the Joke in the page (You can use the innerHTML property)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](coming soon)
+- [Live Demo Link](https://megagig-chuck-norris-jokes.netlify.app/)
 
 <!-- GETTING STARTED -->
 
